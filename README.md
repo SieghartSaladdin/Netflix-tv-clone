@@ -22,6 +22,10 @@ npm install
 npm run dev
 ```
 
+### Images
+
+![Deskripsi Gambar](/public/images/image1.png)
+
 ### Compile and Minify for Production
 
 ```sh
